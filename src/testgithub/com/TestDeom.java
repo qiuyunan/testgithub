@@ -5,5 +5,6 @@ public class TestDeom {
 		System.out.println("this is test giyhub");
 		System.out.println("this is test giyhub02");
 		System.out.println("this is test giyhub03");
+		System.out.println("this is test giyhub04");
 	}
 }
