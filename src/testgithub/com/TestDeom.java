@@ -8,5 +8,6 @@ public class TestDeom {
 		System.out.println("this is test giyhub04");
 		//这个是我重新提交的
 		System.out.println("this is test giyhub05");
+		System.out.println("this is test giyhub06");
 	}
 }
