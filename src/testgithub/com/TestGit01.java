@@ -8,5 +8,9 @@ public class TestGit01 {
 		
 		//第四次
 		System.out.println("第二次");
+		
+		
+		//第四Ⅴ次
+				System.out.println("第二次");
 	}
 }
