@@ -9,5 +9,8 @@ public class TestDeom {
 		//这个是我重新提交的
 		System.out.println("this is test giyhub05");
 		System.out.println("this is test giyhub06");
+		
+		//新增的代码
+		System.out.println("this is test giyhub06");
 	}
 }
